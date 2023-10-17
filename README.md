@@ -2,6 +2,9 @@
 
 This project provides a Python script, `bikeshare.py`, that allows you to analyze bike-sharing data in a user-friendly way. The script is designed to make it easy for you to explore and gain insights from bike usage statistics.
 
+## Date Created 
+This project and README file were created on 18th of Octorber 2023.
+
 ## Features
 
 - **Data Analysis**: The `bikeshare.py` script provides statistical information on bike-sharing data, including trip durations, popular stations, and more.
