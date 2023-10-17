@@ -13,6 +13,14 @@ This project and README file were created on 18th of Octorber 2023.
 
 - **Interactive Data Exploration**: You can interactively explore chunks of bike-sharing data, allowing you to gain insights into the dataset without needing to write complex code.
 
+## Files Included
+
+This project includes the following files:
+
+- `bikeshare.py`: The main Python script for analyzing bike-sharing data.
+- `README.md`: This README file providing project information.
+- Other project-related files and resources.
+  
 ## Usage
 
 To run the script, use the following command:
@@ -29,6 +37,12 @@ Make sure to set up your Python environment using Anaconda before running the `b
 
 if you don't have anaconda you can install it with following command:
 ```pip install pandas```
+
+## License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
+
+For more information, please refer to the [LICENSE](LICENSE) file.
 
 ## Acknowledgments
 
