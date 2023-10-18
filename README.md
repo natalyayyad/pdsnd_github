@@ -38,6 +38,17 @@ Make sure to set up your Python environment using Anaconda before running the `b
 if you don't have anaconda you can install it with following command:
 ```pip install pandas```
 
+## Contribution Guidelines
+
+We welcome contributions from the community to enhance this project. If you'd like to contribute, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes.
+4. Test your changes and ensure they don't break existing functionality.
+5. Submit a pull request for review.
+6. Our team will review and merge your contributions.
+
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as needed.
